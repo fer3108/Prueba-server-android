@@ -1,0 +1,13 @@
+# Archivos generados por Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivo de registro
+logs/
+
+# Archivos de respaldo
+*.log
+*.bak
+*.swp
